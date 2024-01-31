@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Environment
+    uniqueID: 308957079
+    locked: 0
+  - name: Props
+    uniqueID: 2399206267
+    locked: 0
+  - name: Structures
+    uniqueID: 2233869063
+    locked: 0
+  - name: Characters
+    uniqueID: 2600899601
+    locked: 0
